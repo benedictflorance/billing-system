@@ -1,0 +1,1 @@
+# Check screenshots in the img folder of this repo!
